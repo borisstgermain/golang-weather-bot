@@ -8,8 +8,8 @@ import (
 )
 
 const (
-	BOT_TOKEN = "238663056:AAE3aizY-QZ-UTQcR9GmdXKDewOJ1-Ersh0"
-	API_KEY   = "2446ff5aa914f740113b505a5fddca4b"
+	BOT_TOKEN = ""
+	API_KEY   = ""
 )
 
 func main() {
